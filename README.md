@@ -61,6 +61,10 @@ colloboration bookbank
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/3ee1d489-5d21-4143-ba80-37ed8d368ce5)
 
+package bookbank
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/41141e8a-1eab-4fcb-9749-865d9e582095)
+
 3.usecase exam registration
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/60fda787-b642-44d1-b91a-8b877f0de063)
@@ -124,3 +128,53 @@ state stock mar
 component stock mar
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/f7ae49b6-a918-4430-afd8-495d43e9f1ab)
+
+package stock mar
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/83cfca06-10ab-4fab-aa23-00bec9495de0)
+
+5.usecase course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/47293822-cfa9-4017-86fe-3432dfb1df36)
+
+class course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/46adf70b-1e51-4ead-9fad-0b8959b6be96)
+
+activity course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/5b0ebfbf-961c-488b-810a-0f1202f0ee4a)
+
+state course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/74c9f2c4-1eb6-46c8-8f55-ff30bb0fe06c)
+
+sequence course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/c448f5c3-46df-44d9-9a02-01ab3772954d)
+
+collobaration course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/440f6f8c-1885-4bc5-a8f9-4f72af1f5c5d)
+
+component course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/ee1b5d7e-ac38-4ce5-b48e-778a61f6d877)
+
+deployment course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/d9750175-066d-4f04-98d2-0a8623fbbc8f)
+
+package course reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/a13a0f95-7c92-4e07-94d6-858649f16c35)
+
+
+
+
+
+
+
+
+
+
