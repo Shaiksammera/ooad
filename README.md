@@ -97,6 +97,10 @@ collobaration exam reg
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/f5039e5f-f3f4-40ab-a1ac-850c45fe5ad7)
 
+package exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/b6b07d6b-42eb-42da-97dd-7445adce606d)
+
 4.usecase stock marketing
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/ee9a264f-7b20-40c5-9005-b796c2a999f6)
