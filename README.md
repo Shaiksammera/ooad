@@ -63,7 +63,7 @@ colloboration bookbank
 
 3.usecase exam registration
 
-![image](https://github.com/Shaiksammera/ooad/assets/112576522/43af1d80-2229-4b98-9302-577e39505c7d)
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/60fda787-b642-44d1-b91a-8b877f0de063)
 
 class exam reg
 
@@ -76,6 +76,10 @@ activity exam reg
 state exam reg
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/6cb956d9-f8c0-455e-9a52-eb5e72244e09)
+
+sequence exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/3704d5ef-b8c7-45b7-8855-f684bbe3e35e)
 
 component exam reg
 
