@@ -93,9 +93,34 @@ collobaration exam reg
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/f5039e5f-f3f4-40ab-a1ac-850c45fe5ad7)
 
+4.usecase stock marketing
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/ee9a264f-7b20-40c5-9005-b796c2a999f6)
 
+class stock mar
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/87065b67-2a9c-42a3-b8b2-35ac75933f4f)
 
+deployment stock mar
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/62ed1849-a8c0-4a18-a96b-145ff51e4a99)
 
+activity stock mar
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/5d88741b-5260-425b-8121-8d1b75e2d61a)
+
+sequence stock mar
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/13463999-4c53-4f45-ae3f-8dc0c974da66)
+
+collobaration stock mar
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/27bb1e41-8603-4889-b1f9-8810d8fad13d)
+
+state stock mar
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/82e80ad2-c915-495d-8a33-1fe35a951552)
+
+component stock mar
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/f7ae49b6-a918-4430-afd8-495d43e9f1ab)
