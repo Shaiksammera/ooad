@@ -60,3 +60,38 @@ component bookbank
 colloboration bookbank
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/3ee1d489-5d21-4143-ba80-37ed8d368ce5)
+
+3.usecase exam registration
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/43af1d80-2229-4b98-9302-577e39505c7d)
+
+class exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/269108f3-6e2e-4eea-92f4-54078b570c49)
+
+activity exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/d6eac168-1858-41a1-a6bd-f27f45fde4e5)
+
+state exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/6cb956d9-f8c0-455e-9a52-eb5e72244e09)
+
+component exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/119827ff-5e28-4a1b-95ef-f03dd2e023aa)
+
+deployment exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/bd0b3834-ff10-4702-b0cc-97a9fbb35376)
+
+collobaration exam reg
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/f5039e5f-f3f4-40ab-a1ac-850c45fe5ad7)
+
+
+
+
+
+
+
