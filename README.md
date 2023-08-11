@@ -173,11 +173,29 @@ package course reg
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/a13a0f95-7c92-4e07-94d6-858649f16c35)
 
+6.usecase E ticket booking
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/44cf71ba-7dfc-4ddd-ad72-b3c1bc1fcabd)
 
+sequence eticket
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/458e18eb-d18f-4c05-b598-258fb23dcc6e)
 
+activity eticket
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/329fd6ac-745b-470b-ad5d-67b8ec016b12)
+
+7.usecase credit card
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/34f4801d-cdfd-42de-9161-ec0860950421)
+
+sequence credit card
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/4b492c31-9c1c-4cd0-96b2-26012855385c)
+
+activity credit card
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/07859820-21d1-4fb2-8e56-c8551037712a)
 
 
 
