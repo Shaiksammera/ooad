@@ -197,6 +197,15 @@ activity credit card
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/07859820-21d1-4fb2-8e56-c8551037712a)
 
+8.usecase software management system
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/f9198afa-bfc3-4989-9e35-a35c6c8ad0c5)
 
+sequence SMS
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/66092dfa-0be6-4f74-bb6e-0ceda738130e)
+
+activity SMS
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/4db55a84-4523-4edf-af69-5549b551c77b)
 
