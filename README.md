@@ -209,3 +209,34 @@ activity SMS
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/4db55a84-4523-4edf-af69-5549b551c77b)
 
+9.usecase e ticket
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/8fd28170-0f9d-4204-995b-60b279a303da)
+
+class e ticket
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/73e8b30f-a169-4215-b332-38281d53ef64)
+
+activity e ticket
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/99cb3455-53c1-4375-a9d9-8994b683ce8c)
+
+sequence e ticket
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/007bf524-417c-4749-8d05-db1ec90ca5cd)
+
+10.usecase recruitment system
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/1448f6fe-835b-4add-91d6-9d93f72add2a)
+
+class recruitment
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/9b62555f-61ed-4daf-95a8-3f8485c36fb0)
+
+activity recruitment
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/9b72bf46-a6a4-4356-9071-0e7daf212c1f)
+
+sequence recruitment
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/71625a9b-e728-4554-976a-ddb5f4f5cd85)
