@@ -240,3 +240,33 @@ activity recruitment
 sequence recruitment
 
 ![image](https://github.com/Shaiksammera/ooad/assets/112576522/71625a9b-e728-4554-976a-ddb5f4f5cd85)
+
+
+MODEL EXAM
+    JEWELLERY MANAGEMENT SYSTEM
+        USECASE
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/918a52d0-d198-4012-97c0-41a06f9311d0)
+
+CLASS
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/1312372c-fb1e-40a3-b7fd-bd20bf363d01)
+
+SEQUENCE
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/7c2c5234-67f0-41e6-b831-febb1939da99)
+
+STATE
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/f1aa7c9e-34aa-4f20-9142-46ff72e61ace)
+
+2.SOFTWARE PERSONAL AMNAGEMENT SYSTEM
+    USECASE
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/22cb1d26-2b85-4b69-889b-5dc84218afda)
+
+COLLOBORATION
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/f3846d5d-4245-4821-993c-96f71bde6ac8)
+
+ACTIVITY
+
+
