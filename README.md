@@ -269,4 +269,9 @@ COLLOBORATION
 
 ACTIVITY
 
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/36a7ad0d-956d-4dae-b34d-4d2139f0e047)
+
+DEPLOYMENT
+
+![image](https://github.com/Shaiksammera/ooad/assets/112576522/3d200d62-b514-44eb-b871-b61379fa5920)
 
